@@ -1,0 +1,23 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "use of mysql using sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "mysql",
+    "sequelize",
+    "node",
+    "express"
+  ],
+  "author": "gbengstar@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
+  }
+}
